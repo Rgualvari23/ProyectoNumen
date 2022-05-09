@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
+.jumbotron{
+    background-image: linear-gradient(to top, #4f0101, #6b0009, #88000e, #a7000f, #c6020f, #d41216, #e31d1c, #f22723, #f33431, #f3403d, #f34a49, #f25454);
+    font-size: 40px;
+    font-family: comforter;
+    color: rgb(250, 250, 250);
+    padding: 50px;
+    margin: 10px;
+    border-radius: 20px;
+}
+h1{
+    font-size: 90px;
+}
+h2{
+    font-family:fantasy;
+}
+.table{
+    background-color: rgb(211, 6, 6);
+    width: 100px;
+    height: 300px;
+}
+.img-fluid{
+    height: 300px;
+    width: 300px;
+}
+.container{
+    padding-bottom: 20px;
+}
